@@ -1,5 +1,5 @@
 <img width="498" height="389" alt="image" 
-     src="https://github.com/user-attachments/assets/d8ab1f34-ee96-4a0e-a070-faa4b97ac5c0" />
+     src="https://github.com/user-attachments/assets/a7b82b6b-89be-40d8-a576-322a5221fa65" />
 
 ## 👋 About Me
 - Hansung University  
