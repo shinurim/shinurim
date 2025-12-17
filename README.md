@@ -36,10 +36,5 @@
 
 ---
 
-## 📌 Projects
-> (Will be added after repository organization)
-
----
-
 ## 📬 Contact
 - 📧 **yurim@hansung.ac.kr**
