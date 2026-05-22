@@ -24,7 +24,7 @@
   - Co-author (3rd author)
 
 - **Llsollu**
-  - Accepted (Starting from **July 2026**)
+  - Accepted (Starting from **March 2026**)
 
 ---
 
