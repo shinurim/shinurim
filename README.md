@@ -3,8 +3,6 @@
 </div>
 
 <h1 align="center">Delulu til Trululu 🌸</h1>
-<p align="center"><b>Yurim Shin</b></p>
-
 <p align="center">
   Data Analyst · NLP/LLM Researcher · Deep Learning Enthusiast
 </p>
