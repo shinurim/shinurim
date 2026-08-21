@@ -35,7 +35,7 @@ Status: Journal submission planned
 
 ## 💼 Experience
 
-### Llsollu — Intern
+### Llsollu (Intern)
 - Accepted: **March 2026**
 - Started: **August 2026** (currently ongoing)
 
