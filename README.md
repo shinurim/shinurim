@@ -2,11 +2,11 @@
   <img width="498" height="389" alt="profile" src="https://github.com/user-attachments/assets/a7b82b6b-89be-40d8-a576-322a5221fa65" />
 </div>
 
-<h1 align="center">Hi, I'm Yurim 👋</h1>
+<h1 align="center">Delulu til Trululu 🌸</h1>
+<p align="center"><b>Yurim Shin</b></p>
 
 <p align="center">
-  Big Data & Web @ Hansung University (Expected Graduation: Feb 2027)<br/>
-  Natural Language Processing (NLP) · LLM · Speech Processing · Deep Learning
+  Data Analyst · NLP/LLM Researcher · Deep Learning Enthusiast
 </p>
 
 ---
@@ -20,24 +20,33 @@
 
 ## 🏅 Achievements
 
-- 🥇 **Excellence Award, Capstone Design (Big Data Track)**, Hansung University — Repo: [Update_Or_Fade](https://github.com/shinurim/Update_Or_Fade)
-- 📄 Publication: [**"A Proposal of Review Helpfulness Prediction Model Based on Semantic Relevance between Reviews and Products"**](https://doi.org/10.13088/jiis.2025.31.3.101) (3rd author), *Journal of Intelligence and Information Systems*, 2025, 31(3), 101–118
-- 🎤 Presentation at the **Korea Intelligent Information Systems Society (KIISS) Spring Conference** on review helpfulness prediction; journal submission planned
+**🥇 Excellence Award — Capstone Design (Big Data Track)**<br/>
+Hansung University<br/>
+Repo: [Update_Or_Fade](https://github.com/shinurim/Update_Or_Fade)
+
+**📄 Publication**<br/>
+["A Proposal of Review Helpfulness Prediction Model Based on Semantic Relevance between Reviews and Products"](https://doi.org/10.13088/jiis.2025.31.3.101) (3rd author)<br/>
+*Journal of Intelligence and Information Systems*, 2025, 31(3), 101–118
+
+**🎤 Conference Presentation**<br/>
+Korea Intelligent Information Systems Society (KIISS) Spring Conference<br/>
+Topic: Review Helpfulness Prediction<br/>
+Status: Journal submission planned
 
 ---
 
 ## 💼 Experience
 
+### Llsollu — Intern
+- Accepted: **March 2026**
+- Started: **August 2026** (currently ongoing)
+
 ### PRISM Lab, Hansung University — Undergraduate Researcher
-*Advisors: Prof. Seokgi Lee, Prof. Cheongyong Lee · 1 year (Spring 2025 / Spring 2026)*
+*Advisors: Prof. Seokgi Lee, Prof. Cheongyong Lee · 1 year (Spring 2025 – Spring 2026)*
 
 - **Spring 2025**: Contributed to the published paper above (3rd author)
 - **Spring 2026**: Team Lead; presented at the KIISS Spring Conference
 
-### Llsollu — Intern
-- Accepted: **March 2026**
-- Started: **August 2026** (currently ongoing)
-  
 ---
 
 ## 🛠 Skills
