@@ -40,7 +40,7 @@ Status: Journal submission planned
 - Started: **August 2026** (currently ongoing)
 
 ### PRISM Lab, Hansung University — Undergraduate Researcher
-*Advisors: Prof. Seokgi Lee, Prof. Cheongyong Lee · 1 year (Spring 2025 – Spring 2026)*
+*Advisors: Prof. Seokgi Lee, Prof. Cheongyong Lee · 1 year (Spring 2025 / Spring 2026)*
 
 - **Spring 2025**: Contributed to the published paper above (3rd author)
 - **Spring 2026**: Team Lead; presented at the KIISS Spring Conference
